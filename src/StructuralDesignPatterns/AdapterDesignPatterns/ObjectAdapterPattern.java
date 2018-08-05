@@ -2,7 +2,7 @@ package StructuralDesignPatterns.AdapterDesignPatterns;
 
 public class ObjectAdapterPattern implements SocketAdapter{
 
-    Socket socket = new Socket();
+    private Socket socket = new Socket();
 
     @Override
     public Volt get120Volts() {

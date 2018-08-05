@@ -1,6 +1,6 @@
 package StructuralDesignPatterns.AdapterDesignPatterns;
 
-public class TestArrayPattern {
+public class TestAdapterPattern {
 
     public static void main(String[] args){
 
